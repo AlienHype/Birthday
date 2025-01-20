@@ -29,7 +29,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #f9f9f9; /* Light background color */
+  background-color: #e3abc6; /* Light background color */
   position: relative; /* Allow absolute positioning of the hearts */
   overflow: hidden; /* Prevent hearts from overflowing */
 }
